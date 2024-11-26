@@ -5,7 +5,7 @@
 >**Abstract:** Deformable linear objects are commonly found in our daily lives. Understanding them visually can be challenging even for humans, as the same object can become entangled and look completely different. Examples of deformable linear objects include blood vessels and wiring harnesses, which are crucial for the proper functioning of systems like the human body and vehicles. Recently, some studies have focused on 2D image segmentation of wires. However, there are no point cloud datasets available for studying 3D deformable linear objects, which are more complex and challenging. To address this gap, we introduce two point cloud datasets, PointWire and PointVessel, generated using our proposed semi-automatic pipeline. We evaluated state-of-the-art methods on these large-scale 3D deformable linear object benchmarks. Additionally, we analyzed the generalization capabilities of these methods through transferability experiments on the PointWire and PointVessel datasets.
 
 ---
-### Deformable Linear Object Figures
+### Deformable Linear Objects
 <img src="/figures/DLO_figure.png">
 
 ### Data Generation Pipeline
