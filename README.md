@@ -30,3 +30,61 @@
 | :----- | :--: |
 |Pointwire | [Nextcloud](https://nextcloud.in.tum.de/index.php/s/7ooyYxoP6HyPXQK) |
 |Pointvessel | [Nextcloud](https://nextcloud.in.tum.de/index.php/s/7ooyYxoP6HyPXQK) |
+
+<details close>
+<summary><b>Dataset Statistic</b></summary>
+
+![results1](/figures/dataset_statistic.png)
+</details>
+
+<details close>
+<summary><b>Class Distribution</b></summary>
+
+![results1](/figures/class_distribution.png)
+</details>
+
+
+### Experimental Results
+#### Qunatitative Results
+<details close>
+<summary><b>PointWire, PointVessel, and transferablity benchmark</b></summary>
+
+![results1](/figures/overall_benchmark.png)
+</details>
+
+<details close>
+<summary><b>PointWire_benchmark (all classes)</b></summary>
+
+![results1](/figures/pointwire_all_benchmark.png)
+</details>
+
+#### Qualitative Results
+<details close>
+<summary><b>Segmentation results on Pointwire</b></summary>
+
+![results1](/figures/pointwire_qualitative_res.png)
+</details>
+
+<details close>
+<summary><b>Segmentation results on Pointvessel</b></summary>
+
+![results1](/figures/pointvessel_qualitative_res.png)
+</details>
+
+### License
+This project is licensed under <a rel="license" href="https://github.com/heti2000/cdlo-datasets/blob/main/LICENSE">MIT License</a>. Redistribution and use for non-commercial purposes should follow this license.
+
+### Contact
+If you have any questions, please feel free to reach me out at `bare.luka.zagar@tum.de`.
+
+### Citation
+```shell
+@inproceedings{zagar20253d,
+  title={3D Understanding of Deformable Linear Objects: Datasets and Transferability Benchmark},
+  author={Zagar, Bare Luka and Liu, Mingyu and Hertel, Tim and Yurtsever, Ekim and Knoll, Alois},
+  booktitle={2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+  pages={6404--6414},
+  year={2025},
+  organization={IEEE}
+}
+```
